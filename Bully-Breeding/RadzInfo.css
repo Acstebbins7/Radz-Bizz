@@ -1,0 +1,37 @@
+* {
+  color: whitesmoke;
+}
+
+.container {
+  background-color: grey;
+  border-radius: 5px;
+  height: 350vh;
+  width: 100vw;
+  margin: 5px;
+}
+
+#Blue {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 40px;
+  padding-top: 40px;
+}
+
+#Daisy {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+#BlueInfo {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+#DaisyInfo {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
